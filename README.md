@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I'm Cameron.
+## I'm Dan.
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- 🎓 &nbsp; Studying Software Development at #100DEVS.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -39,8 +39,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanOsad&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanOsad&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
 
