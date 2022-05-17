@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Development at #100DEVS.
+- 🎓 &nbsp; Software Developer at #100DEVS.
 
 
 ### 🛠 &nbsp;Tech Stack
