@@ -34,7 +34,7 @@
 - [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
 - [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
 - [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6) -->
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END -->
 
 ## My Stats
 <p>
